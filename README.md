@@ -7,3 +7,5 @@
 #week2 assignment: https://github.com/sathvika0106/Aiml2024/blob/main/2203A51523Ass2%20(1).ipynb
 
 #week3 assignment: https://github.com/sathvika0106/Aiml2024/blob/main/week3(1523).ipynb
+
+#ML assignment: https://github.com/sathvika0106/Aiml2024/blob/e17253271c1bb7bfa05909ef74c6b8e4eb999264/2203A51523%20ML.pdf
